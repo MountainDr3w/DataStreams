@@ -1,0 +1,8 @@
+Credit: Microsoft Copilot; prompt: "Could you give me two examples of files and searches to use as examples"
+
+Welcome to the tutorial
+Learning Java step by step
+File handling in Java
+Using Streams for data processing
+Lambda expressions are useful
+Java Swing for GUI development

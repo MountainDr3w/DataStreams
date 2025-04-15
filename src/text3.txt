@@ -1,0 +1,17 @@
+Credit: Microsoft Copilot; prompt: "can you create a 3rd larger one with more real world application?"
+
+2025-04-14 10:15:32 INFO User login successful: user123
+2025-04-14 10:16:45 ERROR Failed to connect to database
+2025-04-14 10:17:01 INFO Data retrieved successfully
+2025-04-14 10:18:22 WARN Disk space running low
+2025-04-14 10:19:35 INFO User logout: user123
+2025-04-14 10:20:47 ERROR Failed to send email
+2025-04-14 10:21:58 INFO User login successful: user456
+2025-04-14 10:23:12 INFO Data saved successfully
+2025-04-14 10:24:23 WARN High memory usage detected
+2025-04-14 10:25:34 INFO User logout: user456
+2025-04-14 10:26:45 ERROR Failed to update record
+2025-04-14 10:27:56 INFO User login successful: user789
+2025-04-14 10:29:10 INFO Data processed successfully
+2025-04-14 10:30:21 WARN Network latency detected
+2025-04-14 10:31:32 INFO User logout: user789
